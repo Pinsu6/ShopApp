@@ -1,0 +1,28 @@
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\Tulja jeweller.exe
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\Tulja jeweller.deps.json
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\Tulja jeweller.runtimeconfig.json
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\Tulja jeweller.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\Tulja jeweller.pdb
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.csproj.AssemblyReference.cache
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja_jeweller.Form1.resources
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.csproj.GenerateResource.cache
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.AssemblyInfoInputs.cache
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.AssemblyInfo.cs
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.csproj.CoreCompileInputs.cache
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\refint\Tulja jeweller.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.pdb
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.genruntimeconfig.cache
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\ref\Tulja jeweller.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja_jeweller.bill.resources
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja jeweller.csproj.CopyComplete
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja_jeweller.showbills.resources
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja_jeweller.password.resources
+D:\c# project\Tulja jeweller\Tulja jeweller\obj\Debug\net6.0-windows\Tulja_jeweller.Properties.Resources.resources
